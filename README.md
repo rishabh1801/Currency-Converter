@@ -25,6 +25,5 @@ Welcome to the **Currency Converter** web application! 🌐💸 This app helps y
 **⚠️ Note on API Key:**
 This app relies on a free API for fetching currency rates. Please be aware that you might need to obtain an API key if the service limits requests. Make sure to add your own API key in the code where required for smooth functionality. 🔑
 
-**Note:**
-Feel free to fork, modify, or improve the code. Contributions are welcome!
+**Note: eel free to fork, modify, or improve the code. Contributions are welcome!**
 
