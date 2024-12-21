@@ -19,7 +19,7 @@ Welcome to the **Currency Converter** web application! 🌐💸 This app helps y
 3. Hit the "Get Exchange Rate" button to see the magic happen! 🎩✨
 
 **📥 Installation:**
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine!
 2. Open the `index.html` file in your browser and voilà! You're ready to start converting currencies! 💻
 
 **⚠️ Note on API Key:**
