@@ -1,5 +1,4 @@
-const BASE_URL =
-  "https://v6.exchangerate-api.com/v6/e35735c9ef4915194477d14d/latest/USD";
+const BASE_URL = "Paste your URL";
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
