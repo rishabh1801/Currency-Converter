@@ -18,10 +18,6 @@ Welcome to the **Currency Converter** web application! 🌐💸 This app helps y
 2. Enter the amount you want to convert. ✍️
 3. Hit the "Get Exchange Rate" button to see the magic happen! 🎩✨
 
-**📥 Installation:**
-1. Clone this repository to your local machine!
-2. Open the `index.html` file in your browser and voilà! You're ready to start converting currencies! 💻
-
 **⚠️ Note on API Key:**
 This app relies on a free API for fetching currency rates. Please be aware that you might need to obtain an API key if the service limits requests. Make sure to add your own API key in the code where required for smooth functionality. 🔑
 
