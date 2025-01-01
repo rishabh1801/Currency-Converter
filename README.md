@@ -16,7 +16,7 @@ Welcome to the **Currency Converter** web application! 🌐💸 This app helps y
 **🚀 How to Use:**
 1. Choose the currencies you want to convert from and to. 🌎💱
 2. Enter the amount you want to convert. ✍️
-3. Hit the "Get Exchange Rate" button to see the magic happen! 🎩✨
+3. Hit the "Get Exchange Rate" button to see the magic happen! 🎩
 
 **⚠️ Note on API Key:**
 This app relies on a free API for fetching currency rates. Please be aware that you might need to obtain an API key if the service limits requests. Make sure to add your own API key in the code where required for smooth functionality. 🔑
